@@ -22,7 +22,7 @@
 // 改
 /* *
 * UPDATE USER SET NAME="更新后的名字",AGE=55,SEX="女" WHERE ID=20
-* UPDATE 表名 SET 更改后字段="更改后字段的值" WHERE 更改前字段="更改前字段的值"
+* UPDATE 表名 SET 更改后字段="更改后字段的值" WHERE 更改前字段="更改前字段的值
 * */
 
 // 查询
